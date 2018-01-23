@@ -1,0 +1,22 @@
+html, body {
+
+	margin: auto;
+	margin-bottom: 70px;
+}
+
+
+.course1, .course2, .course3 {
+	text-align: center;
+	font-size: 3em;
+	border: 1px solid black;
+
+}
+
+#p1, #p2, #p3 { /* important */
+
+	font-size: 35%;
+}
+
+label , input, #last_name_error {
+	display: table;
+}
