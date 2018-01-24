@@ -342,6 +342,14 @@ fieldset[disabled] .btn-theme {
   margin-right: 10px;
 }
 
+.news {
+  margin-top: 20px;
+}
+
+.bottom {
+  padding-bottom: 50px;
+}
+
 /*------------------------------------------------------------------
   	[Promo Section]
 ------------------------------------------------------------------*/
@@ -356,6 +364,7 @@ fieldset[disabled] .btn-theme {
   .promo-section {
     position: relative;
     height: 400px;
+    margin-top: 50px;
   }
   .promo-section .promo-section-col {
     width: 45%;
@@ -514,8 +523,19 @@ fieldset[disabled] .btn-theme {
 }
 
 .footer .footer-logo {
-  width: 85px;
+  width: 200px;
   height: auto;
+}
+
+.footer #bimLogo{
+  width: 200px;
+  height: auto;
+  padding-top: 20px;
+} 
+
+.footer #cfLogo{
+  width: 200px;
+  height: 100px;
 }
 
 /*------------------------------------------------------------------
@@ -1231,7 +1251,7 @@ fieldset[disabled] .btn-theme {
 
 .row-space-1 > [class*="col-"] {
   padding-left: 1px;
-  padding-right: 1px;
+  padding-right: 30px;
 }
 
 /*------------------------------------------------------------------
@@ -1253,8 +1273,8 @@ fieldset[disabled] .btn-theme {
 }
 
 .content-lg {
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 /*------------------------------------------------------------------
@@ -1564,4 +1584,17 @@ fieldset[disabled] .btn-theme {
 
 .height-400 {
   height: 400px !important;
+}
+
+.icon-social-facebook {
+  color: #fffafa;
+  font-size: 25px;
+}
+.icon-social-twitter {
+  color: #fffafa;
+  font-size: 25px;
+}
+
+.row {
+  padding-top: 40px;
 }
