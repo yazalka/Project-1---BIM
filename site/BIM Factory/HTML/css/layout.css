@@ -43,6 +43,11 @@ p {
   margin-bottom: 15px;
 }
 
+.ctext {
+  color: #fffafa;
+  font-size: 22px;
+}
+
 em,
 li,
 li a {
@@ -78,7 +83,7 @@ a:focus, a:hover, a:active {
   right: -15px;
   width: 9px;
   height: 2px;
-  background: #17bed2;
+  background: #2E74B5;
   content: " ";
 }
 
@@ -90,7 +95,7 @@ span {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 700;
+  font-weight: 350;
   font-family: Hind, sans-serif;
   color: #515769;
   line-height: 1.4;
@@ -186,7 +191,7 @@ h4 {
   left: -20px;
   font-size: 60px;
   display: inline-block;
-  color: #17bed2;
+  color: #2E74B5;
   content: '“';
 }
 
@@ -260,13 +265,13 @@ fieldset[disabled] .btn-theme {
 
 .btn-default-bg:hover, .btn-default-bg:focus, .btn-default-bg.focus {
   color: #fff;
-  background: #17bed2;
+  background: #2E74B5;
   border-color: transparent;
 }
 
 .btn-base-bg {
   color: #fff;
-  background: #17bed2;
+  background: #2E74B5;
   border-color: transparent;
   border-width: 0;
 }
@@ -331,7 +336,7 @@ fieldset[disabled] .btn-theme {
   left: 0;
   width: 9px;
   height: 2px;
-  background: #17bed2;
+  background: #2E74B5;
   content: " ";
   margin-right: 10px;
 }
@@ -602,7 +607,7 @@ fieldset[disabled] .btn-theme {
 
 /* Navbar Logo */
 .header .logo {
-  width: 100px;
+  width: 175px;
   height: 100px;
   float: left;
   max-height: 95px;
@@ -620,7 +625,7 @@ fieldset[disabled] .btn-theme {
 
 .header .logo-img {
   display: inline-block;
-  width: 85px;
+  width: 175px;
   height: auto;
   max-width: 100%;
   max-height: 100%;
@@ -697,7 +702,7 @@ fieldset[disabled] .btn-theme {
   left: 0;
   width: 9px;
   height: 2px;
-  background: #17bed2;
+  background: #2E74B5;
   opacity: 0;
   content: " ";
   transition-duration: 400ms;
@@ -975,8 +980,7 @@ fieldset[disabled] .btn-theme {
 
 .carousel-title {
   font-size: 80px;
-  font-weight: 700;
-  color: #fff;
+  color: #fffafa;
   line-height: 1.1;
   text-transform: uppercase;
 }
