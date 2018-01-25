@@ -1598,3 +1598,21 @@ fieldset[disabled] .btn-theme {
 .row {
   padding-top: 40px;
 }
+
+.footer #cfLogo {
+    width: 280px;
+}
+
+#rtechcontact {
+    width: 70%;
+}
+
+#codefactorycontact {
+    width: 95%;
+    height: 146px;
+  }
+
+#wrapcontact {
+    padding-left: 100px;
+    height: 150px;
+}
