@@ -526,6 +526,7 @@ fieldset[disabled] .btn-theme {
   width: 200px;
   height: auto;
 }
+/* logo for codefactory in footer */
 
 .footer #bimLogo{
   width: 200px;
@@ -533,14 +534,13 @@ fieldset[disabled] .btn-theme {
   padding-top: 20px;
 } 
 
+/* logo for codefactory in footer */
 .footer #cfLogo{
   width: 200px;
-  height: 100px;
+  height: 80px;
 }
 
-/*------------------------------------------------------------------
-  	[Header]
-------------------------------------------------------------------*/
+/*----------[Header]----------*/
 /* Fixed Top */
 .navbar-fixed-top .navbar-collapse {
   max-height: 100%;
@@ -1597,4 +1597,9 @@ fieldset[disabled] .btn-theme {
 
 .row {
   padding-top: 40px;
+}
+
+#codef {
+  width: 360px;
+  height: 175px;
 }

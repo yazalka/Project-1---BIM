@@ -36,7 +36,7 @@ window.initMap=function() {
     scrollwheel: false,
     streetViewControl: false,
     mapTypeControl: false,
-    center: vienna, // Brooklyn.
+    center: vienna,  
     mapTypeControlOptions: {
       mapTypeIds: [google.maps.MapTypeId.ROADMAP, customMapTypeId]
     }
