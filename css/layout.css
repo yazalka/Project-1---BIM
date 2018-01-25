@@ -1599,7 +1599,27 @@ fieldset[disabled] .btn-theme {
   padding-top: 40px;
 }
 
+<<<<<<< HEAD
 #codef {
   width: 360px;
   height: 175px;
 }
+=======
+.footer #cfLogo {
+    width: 280px;
+}
+
+#rtechcontact {
+    width: 70%;
+}
+
+#codefactorycontact {
+    width: 95%;
+    height: 146px;
+  }
+
+#wrapcontact {
+    padding-left: 100px;
+    height: 150px;
+}
+>>>>>>> e833c844322721f18549df3764918ecf61c77c7c
